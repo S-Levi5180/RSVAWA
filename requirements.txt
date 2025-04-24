@@ -1,6 +1,12 @@
 Flask
 torch
 pandas
+<<<<<<< HEAD
 opencv-python
 Pillow
 pyttsx3
+=======
+numpy
+opencv-python
+pyttsx3
+>>>>>>> 0f1edf4ddbd0eb01ec82a8e2b337888dd9adc419
