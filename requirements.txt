@@ -1,0 +1,6 @@
+Flask
+torch
+pandas
+opencv-python
+Pillow
+pyttsx3
